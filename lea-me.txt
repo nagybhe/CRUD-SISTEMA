@@ -1,0 +1,6 @@
+✱Criar o BD "pessoa"
+	↪✱Configurar o "banco.php"
+Criar ✔
+Deletar ✔
+Atualizar ✔
+visualizar ✔

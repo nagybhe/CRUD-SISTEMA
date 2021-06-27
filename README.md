@@ -1,18 +1,13 @@
-# Estudando Php e Sql.
-**Sistema para Criar, Consultar, Atualizar e Exluir dados.**
+# Projeto CRUD 
+O projeto desenvolvido representa as quatro principais operações com bancos de dados: **Criar, Ler, Atualizar e Excluir dados**.
 
-Data | Descrição | Autor
------------- | -------------| -------------
-03/10/19 |  CRUD | André Nagybhe
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)<br> Copyright © 2019 All Rights Reserved
+## Ferramentas e Linguagens Utilizadas
 
+### Ferramentas 🛠️
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-### Ferramentas e Linguagens Utilizadas 
-Nome | Descrição 
------------- |  -------------| 
-VsCode |  Editor de Código-Fonte .
-HTML5 |  Linguagem de Marcação
-Bootstrap |   Framework Front-end para o desenvolvimento sites e aplicações web.
-Jquery |  Biblioteca de funções JavaScript que interage com o HTML.
-PHP |   Linguagem de script open source de uso geral, utilizada especialmente  para o desenvolvimento web e que pode ser embutida dentro do HTML.
-MySQL |  Gerenciamento de banco de dados.
+### Linguagens 👩‍💻
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 

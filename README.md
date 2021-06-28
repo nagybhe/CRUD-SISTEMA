@@ -1,7 +1,9 @@
 # Projeto CRUD 
 O projeto desenvolvido representa as quatro principais operações com bancos de dados: **Criar, Ler, Atualizar e Excluir dados**.
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)<br> Copyright © 2019 All Rights Reserved
+<br>
+<br>
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Ferramentas e Linguagens Utilizadas
 
 ### Ferramentas 🛠️
